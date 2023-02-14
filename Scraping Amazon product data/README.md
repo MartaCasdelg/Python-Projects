@@ -1,7 +1,7 @@
 # **Scraping Amazon product data** 
-
-![Amazon](https://images.unsplash.com/photo-1633174524827-db00a6b7bc74?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1196&q=80)
-
+<div id="header" align="center">
+  <img src="https://github.com/MartaCasdelg/Python-Projects/blob/main/Scraping%20Amazon%20product%20data/Images/anirudh-wKeZstqxKTQ-unsplash.jpg" />
+</div>
 
 ## Description
 
