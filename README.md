@@ -6,7 +6,7 @@
 ## Description
 In this repository you will find a series of projects made with the Python programming language. The theme of these projects is around data extraction and analysis. 
 
-In the various folders you will find data extraction projects from various APIs as well as different analysis techniques, such as sentiment analysis and natural language processing.
+Inside the folders you will find data extraction projects from various APIs as well as different analysis techniques, such as sentiment analysis and natural language processing.
 
 Feel free to follow me for updates and to contact me if you have any suggestions.
 
