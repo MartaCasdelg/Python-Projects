@@ -16,7 +16,7 @@ Please note that in order to replicate this project you need to have a google de
 * [API documentation](https://developers.google.com/youtube/v3/docs?hl=es)
 * [Get API key for Youtube (blog)](https://www.slickremix.com/docs/get-api-key-for-youtube/)
 * [Crear base de datos PostgreSQL en RDS de AWS y administrarlo con pgAdmin 4 (Ing CURIEL spanish tutorial).](https://www.youtube.com/watch?v=Umjiou3lY5I)
-* [How to create PostgreSQL Database on AWS RDS and connect use pgAdmin4 (AWS-Azure-GCP Beginner Tutorial english tutorial).](https://www.youtube.com/watch?v=YMSnT5HK1As)
+* [How to create PostgreSQL Database on AWS RDS and connect use pgAdmin4 (AWS-Azure-GCP Beginner Tutorial in english).](https://www.youtube.com/watch?v=YMSnT5HK1As)
 
 
 ## Feedback
