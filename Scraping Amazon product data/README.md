@@ -11,19 +11,16 @@ We will see what libraries are needed, what we can do to scrap all the products 
 
 In order to facilitate the readability and comprehension of the code, I will put explanations before each code cell about what is about to be done and how to do it. 
 
-&nbsp;
 
 ## References
 
 * [Amazon Web Scraping Using Python - Alex the analyst (scrap one product and check its price every day).](https://www.youtube.com/watch?v=HiOtQMcI5wg) 
 * [Web Scraping Amazon Product Data using ChatGPT and Python.](https://www.youtube.com/watch?v=9MNCGdaJfA0)
 
-&nbsp;
 ## Feedback
 
 If you have any feedback, please reach out to me at martacasdelg@gmail.com
 
-&nbsp;
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://martacastrillo.com/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marta-castrillo-delgado/)
