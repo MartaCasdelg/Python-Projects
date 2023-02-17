@@ -4,9 +4,21 @@
 
 
 ## Description
-In this repository you will find a series of projects made with the Python programming language. The theme of these projects is around data extraction and analysis. 
+In this repository you will find a series of projects about data extraction and analysis made with Python. Specifically, inside the folders you will find data extraction projects from APIs as well as different analysis techniques, such as sentiment analysis and natural language processing. All available projects are listed below, along with a summary of their content.
 
-Inside the folders you will find data extraction projects from various APIs as well as different analysis techniques, such as sentiment analysis and natural language processing.
+* [Scraping Amazon product data.](https://github.com/MartaCasdelg/Python-Projects/tree/main/Scraping%20Amazon%20product%20data) 
+
+    **Data extraction project of all products in an Amazon product category**. It includes explanations on which libraries and methods to use to access the information of all the products of several pages in Amazon, as well as a way to save them into a dataframe.  
+
+* [Sentiment Analysis of Elon Musk Tweets.](https://github.com/MartaCasdelg/Python-Projects/tree/main/Sentiment%20Analysis%20of%20Elon%20Musk%20Tweets)
+
+    Extraction and analysis project in which I show **how to obtain all tweets written by a user** (in this case Elon Musk), as well as information about the date of publication and other basic statistics, using the Twitter API. 
+
+    Additionally, I show how to perform a **deep text cleanup, as well as a brief sentiment and text analysis**.
+
+* [YouTube API.](https://github.com/MartaCasdelg/Python-Projects/tree/main/Youtube_API)
+
+    This data mining project shows step by step how to make calls to the Youtube API in order to acquire information about the videos of a channel and their respective statistics. At the same time, the project includes a section showing how to import the obtained results to a cloud database (in this case AWS) with Python.
 
 Feel free to follow me for updates and to contact me if you have any suggestions.
 
