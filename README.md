@@ -18,12 +18,11 @@ In this repository you will find a series of projects about data extraction and 
 
     This data mining project shows step by step how to make calls to the Youtube API in order to acquire information about the videos of a channel and their respective statistics. At the same time, the project includes a section showing how to import the obtained results to a cloud database (in this case AWS) with Python.
 
-Feel free to follow me for updates and to contact me if you have any suggestions.
 
 
 ## Feedback
 
-If you have any feedback, please reach out to me at martacasdelg@gmail.com
+Feel free to follow me for updates and reach out to me at martacasdelg@gmail.com if you have any suggestions.
 
 
 ## 🔗 Links
