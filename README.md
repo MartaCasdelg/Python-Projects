@@ -12,9 +12,7 @@ In this repository you will find a series of projects about data extraction and 
 
 * [Sentiment Analysis of Elon Musk Tweets.](https://github.com/MartaCasdelg/Python-Projects/tree/main/Sentiment%20Analysis%20of%20Elon%20Musk%20Tweets)
 
-    Extraction and analysis project in which I show **how to obtain all tweets written by a user** (in this case Elon Musk), as well as information about the date of publication and other basic statistics, using the Twitter API. 
-
-    Additionally, I show how to perform a **deep text cleanup, as well as a brief sentiment and text analysis**.
+    Extraction and analysis project in which I show **how to obtain all tweets written by a user** (in this case Elon Musk), as well as information about the date of publication and other basic statistics, using the Twitter API. Additionally, I show how to perform a **deep text cleanup, as well as a brief sentiment and text analysis**.
 
 * [YouTube API.](https://github.com/MartaCasdelg/Python-Projects/tree/main/Youtube_API)
 
