@@ -10,7 +10,7 @@ In this repository you will find a series of projects about data extraction and 
 
     **Data extraction project of all products in an Amazon product category**. It includes explanations on which libraries and methods to use to access the information of all the products of several pages in Amazon, as well as a way to save them into a dataframe.  
 
-* [Sentiment Analysis of Elon Musk Tweets.](https://github.com/MartaCasdelg/Python-Projects/tree/main/Sentiment%20Analysis%20of%20Elon%20Musk%20Tweets)
+* [Sentiment Analysis of Elon Musk Tweets.](https://github.com/MartaCasdelg/Python-Projects/tree/main/Twitter%20-Sentiment%20and%20text%20analysis%20of%20Elon%20Musk%20tweets)
 
     Extraction and analysis project in which I show **how to obtain all tweets written by a user** (in this case Elon Musk), as well as information about the date of publication and other basic statistics, using the Twitter API. Additionally, I show how to perform a **deep text cleanup, as well as a brief sentiment and text analysis**.
 
