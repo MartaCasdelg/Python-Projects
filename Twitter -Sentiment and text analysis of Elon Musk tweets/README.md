@@ -6,7 +6,7 @@
 ## Description
 This subrepository contains a Twitter API data extraction project done in order to collect information about Elon Musk's tweets and perform sentiment and NPL analysis.
 
-In the jupiter notebook you will find the steps to perform the data extraction as well as to perform the analyses. Although I have selected Elon's profile for this project, you can choose the one you like the most and carry out your own project.
+In the jupyter notebook you will find the steps to perform the data extraction as well as to perform the analyses. Although I have selected Elon's profile for this project, you can choose the one you like the most and carry out your own project.
 
 Additionally, I have included the csv resulting from the project, including both the raw and final extracted data, which went through a cleaning and transformation process that you can also contemplate in the notebook. You can download the data from this repository or from [kaggle](https://www.kaggle.com/datasets/marta99/elon-musks-tweets-dataset-2022), where I have uploaded the dataset.
 
