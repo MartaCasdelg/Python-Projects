@@ -8,7 +8,7 @@ An advertising technology company recently introduced a new impression bidding m
 
 In this project I explain what is an AB test and how to analyze its results using the pingouin, scipy, pandas and seaborn libraries, among others. Specifically, in the notebook I will show step by step how to develop the analysis, including sections on data preparation and data cleaning, exploratory data analysis and the development of the relevant hypothesis tests.
 
-Click in the [link](https://github.com/MartaCasdelg/Python-Projects/blob/main/AB%20Test%20for%20an%20ad-tech%20company/a-b-testing-analysis-for-an-ad-tech-company.ipynb) to open the notebook. This work is also available in [kaggle](https://www.kaggle.com/code/marta99/a-b-testing-analysis-for-an-ad-tech-company).
+Click in the [link](https://github.com/MartaCasdelg/Python-Projects/blob/main/AB%20Test%20for%20an%20ad-tech%20company/a-b-testing-analysis-for-an-ad-tech-company.ipynb) to open the notebook. This work is also available in [Kaggle](https://www.kaggle.com/code/marta99/a-b-testing-analysis-for-an-ad-tech-company).
 
 ## Feedback
 
