@@ -1,6 +1,6 @@
 # A/B Testing Analysis for an ad-tech company
 
-![Portada](https://socital.com/wp-content/uploads/2022/01/thumbnail-ab-testing.jpg)
+![Portada](assets/AB_testing.jpeg)
 
 An impression bidding model, in the context of online advertising and digital marketing, refers to the strategy used by advertisers and advertising platforms to determine how much they are willing to pay to have their ad displayed to a specific user when that user visits a website or application. This process is fundamental to the purchase of online advertising space and the optimization of advertising campaigns. Given the previous information, the case of a company is presented as follows. 
 
